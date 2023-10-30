@@ -1,3 +1,5 @@
+https://reactnative.dev/docs/environment-setup?guide=native
+
 Setting up the development environment
 This page will help you install and build your first React Native app.
 
